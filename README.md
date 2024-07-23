@@ -1,5 +1,5 @@
 # orangepi_kernel
-add joy device support for rk3588
+enable joy device support for rk3588, Linux kernel 6.1.43
 
 just run following command in the terminal
 ```
